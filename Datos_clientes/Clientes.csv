@@ -1,0 +1,11 @@
+ID,Nombre,Apellido,Email,Teléfono,Ciudad,País
+C001,Martín,Ruiz,martin.ruiz@email.com,0998765432,Guayaquil,Ecuador
+C002,Elena,Suárez,elena.suarez@email.com,0981122334,Cuenca,Ecuador
+C003,Roberto,Delgado,roberto.delgado@email.com,0974455667,Quito,Ecuador
+C004,Patricia,Aguilar,patricia.aguilar@email.com,0967788990,Manta,Ecuador
+C005,Daniela,Ortiz,daniela.ortiz@email.com,0952233445,Ambato,Ecuador
+C006,Fernando,Silva,fernando.silva@email.com,0945566778,Loja,Ecuador
+C007,Claudia,Reyes,claudia.reyes@email.com,0938899001,Esmeraldas,Ecuador
+C008,Esteban,Carrillo,esteban.carrillo@email.com,0923344556,Portoviejo,Ecuador
+C009,Verónica,Herrera,veronica.herrera@email.com,0916677889,Santo Domingo,Ecuador
+C010,Gabriel,Morales,gabriel.morales@email.com,0901122335,Milagro,Ecuador
